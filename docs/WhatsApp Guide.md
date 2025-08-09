@@ -27,3 +27,4 @@ This guide is for users who will be using the WhatsAopp application from their w
 ## Open your whatsApp accout by scanning a QR code
 
 After the Applicatiom is installed, you can always find it by multiple methods
+## New 
